@@ -37,7 +37,3 @@ github-trending-cli/
 │── trending_repos.py
 │── requirements.txt
 │── README.md
-
-```
-
-- https://roadmap.sh/projects/github-trending-cli
