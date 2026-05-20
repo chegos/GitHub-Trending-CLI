@@ -62,10 +62,10 @@ def display_repositories(repositories):
         url = repo["html_url"]
 
         print(f"{index}. {name}")
-        print(f"   Stars: {stars}")
-        print(f"   Description: {description}")
-        print(f"   Language: {language}")
-        print(f"   URL: {url}")
+        print(f"   ⭐ Stars: {stars}")
+        print(f"   📝 Description: {description}")
+        print(f"   💻 Language: {language}")
+        print(f"   🔗 URL: {url}")
         print("-" * 60)
 
 
